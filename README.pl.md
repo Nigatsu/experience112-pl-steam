@@ -23,7 +23,7 @@ wszystko odczytuje z Twoich własnych kopii.
 
 ## Użycie
 
-1. Połóż obraz `.iso` polskiej płyty obok programu (albo włóż płytę).
+1. Umieść obraz `.iso` polskiej płyty obok programu (albo włóż płytę).
 2. Uruchom `exp112-pl-patch.exe` i odpowiadaj na pytania
    (Enter = odpowiedź domyślna). Program sam znajdzie grę w bibliotece Steam
    oraz obraz `.iso` / płytę.
