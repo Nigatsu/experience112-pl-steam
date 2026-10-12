@@ -1,0 +1,15 @@
+# build output
+/dist/
+*.exe
+
+# never commit game data
+*.arc
+*.iso
+*.cab
+*.hdr
+*.dll
+*.bin
+*.ttf
+*.ogg
+*.avi
+*.lps
